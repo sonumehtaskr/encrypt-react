@@ -1,0 +1,37 @@
+{
+  "name": "encrypt-react",
+  "version": "1.0.0",
+  "description": "A React hook that enables automatic AES encryption and decryption for Axios requests and responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "react",
+    "encryption",
+    "crypto",
+    "aes",
+    "axios",
+    "interceptor",
+    "secure",
+    "frontend",
+    "encrypt",
+    "decrypt",
+    "crypto-js"
+  ],
+  "author": "Sonu Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonumehtaskr/encrypt-react"
+  },
+  "bugs": {
+    "url": "https://github.com/sonumehtaskr/encrypt-react/issues"
+  },
+  "homepage": "https://github.com/sonumehtaskr/encrypt-react#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "crypto-js": "^4.2.0",
+    "react": "^19.1.1"
+  }
+}
